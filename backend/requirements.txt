@@ -1,0 +1,10 @@
+Flask
+requests
+python-dotenv
+langchain
+langgraph
+pydantic
+flask-cors
+flask-socketio
+eventlet
+pyjwt
